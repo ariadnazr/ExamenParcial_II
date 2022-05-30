@@ -1,6 +1,10 @@
-//variables reasignadas
-$primary: $myPrimary;
-$secondary: $mySecondary;
+//reasignar variables
 
+$primary: $color1;
+$secondary: $color2;
+$info: $colorTexto;
+$light: $colorClaro;
+$dark: $colorOscuro;
+//libreria principal bootstrap
 
 @import "../bootstrap/bootstrap.scss";
